@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-for styling [semantic ui](https://semantic-ui.com/) is used
+for styling [semantic ui](https://semantic-ui.com/) is used.
+
+used a demo data of 5 entities of each type.
 
 ## Page Loading Time
 
