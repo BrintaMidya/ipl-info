@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-for styling [sentic ui](https://semantic-ui.com/) is used
+for styling [semantic ui](https://semantic-ui.com/) is used
 
 ## Page Loading Time
 
@@ -13,5 +13,5 @@ loading time calculated using chrome devTools
 
 ### Loading time Optimizations
 
-- tumbnail sized images are chosen
+- small tumbnail sized images are used
 - usage of third party cdn is reduced in most places
