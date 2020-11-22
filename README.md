@@ -6,8 +6,8 @@ for styling [semantic ui](https://semantic-ui.com/) is used
 
 ## Page Loading Time
 
-recorded 95ms as the page loading time
-range: 144ms - 1.44s
+- recorded 95ms as the page loading time
+- range: 144ms - 1.44s
 
 loading time calculated using chrome devTools
 
